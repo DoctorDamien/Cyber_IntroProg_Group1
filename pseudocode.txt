@@ -1,0 +1,10 @@
+Start
+Display "Enter PIN"
+    Input PIN
+Does PIN = "1234"
+If yes, show balance
+If no
+    Display "PIN is incorrect"
+    Display "Try Again"
+Go to line 2
+End
